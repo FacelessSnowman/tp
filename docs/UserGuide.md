@@ -45,6 +45,7 @@ CLinkedin is a **desktop app for managing contacts, optimized for use via a Comm
 1. Refer to the [Features](#features) below for details of each command.
 
 --------------------------------------------------------------------------------------------------------------------
+
 ## Command Format
 
 - `UPPER_CASE` = user input  
@@ -117,6 +118,7 @@ Format: `exit`
 Adds a contact to CLinkedin.
 
 Format: `add n/NAME p/PHONE_NUMBER e/EMAIL a/ADDRESS [c/COMPANY] [l/LINK] [r/REMARK] [t/TAG]…​`
+
 <box type="warning" seamless>
 
 **Input constraints:**
@@ -159,6 +161,7 @@ Format: `add n/NAME p/PHONE_NUMBER e/EMAIL a/ADDRESS [c/COMPANY] [l/LINK] [r/REM
     - Case-sensitive
 
 </box>
+
 <box type="tip" seamless>
 
 **Tip:** A contact can have any number of tags (including 0)
